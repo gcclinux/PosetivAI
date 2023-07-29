@@ -1,4 +1,4 @@
-package posetiv.co.uk.posetiv
+package posetiv.co.uk.posetivai
 
 import org.junit.Test
 

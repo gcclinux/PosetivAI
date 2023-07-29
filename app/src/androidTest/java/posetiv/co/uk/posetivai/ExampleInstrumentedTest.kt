@@ -1,4 +1,4 @@
-package posetiv.co.uk.posetiv
+package posetiv.co.uk.posetivai
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
